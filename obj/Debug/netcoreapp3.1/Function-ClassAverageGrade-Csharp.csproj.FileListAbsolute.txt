@@ -1,0 +1,13 @@
+C:\Users\Felipe\Desktop\Function-ClassAverageGrade-Csharp\bin\Debug\netcoreapp3.1\Function-ClassAverageGrade-Csharp.exe
+C:\Users\Felipe\Desktop\Function-ClassAverageGrade-Csharp\bin\Debug\netcoreapp3.1\Function-ClassAverageGrade-Csharp.deps.json
+C:\Users\Felipe\Desktop\Function-ClassAverageGrade-Csharp\bin\Debug\netcoreapp3.1\Function-ClassAverageGrade-Csharp.runtimeconfig.json
+C:\Users\Felipe\Desktop\Function-ClassAverageGrade-Csharp\bin\Debug\netcoreapp3.1\Function-ClassAverageGrade-Csharp.runtimeconfig.dev.json
+C:\Users\Felipe\Desktop\Function-ClassAverageGrade-Csharp\bin\Debug\netcoreapp3.1\Function-ClassAverageGrade-Csharp.dll
+C:\Users\Felipe\Desktop\Function-ClassAverageGrade-Csharp\bin\Debug\netcoreapp3.1\Function-ClassAverageGrade-Csharp.pdb
+C:\Users\Felipe\Desktop\Function-ClassAverageGrade-Csharp\obj\Debug\netcoreapp3.1\Function-ClassAverageGrade-Csharp.csprojAssemblyReference.cache
+C:\Users\Felipe\Desktop\Function-ClassAverageGrade-Csharp\obj\Debug\netcoreapp3.1\Function-ClassAverageGrade-Csharp.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\Function-ClassAverageGrade-Csharp\obj\Debug\netcoreapp3.1\Function-ClassAverageGrade-Csharp.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\Function-ClassAverageGrade-Csharp\obj\Debug\netcoreapp3.1\Function-ClassAverageGrade-Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\Function-ClassAverageGrade-Csharp\obj\Debug\netcoreapp3.1\Function-ClassAverageGrade-Csharp.dll
+C:\Users\Felipe\Desktop\Function-ClassAverageGrade-Csharp\obj\Debug\netcoreapp3.1\Function-ClassAverageGrade-Csharp.pdb
+C:\Users\Felipe\Desktop\Function-ClassAverageGrade-Csharp\obj\Debug\netcoreapp3.1\Function-ClassAverageGrade-Csharp.genruntimeconfig.cache
